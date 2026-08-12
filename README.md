@@ -23,13 +23,10 @@ The dashboard helps identify **good vs. bad loans, high-risk loan grades, loan d
 
 ## 🛠️ Key Features
 
-**Dynamic Dashboards**: Interactive summary, overview, and detailed grid views.
-
-**KPI Tracking**: Monitoring Total Loan Applications, Total Funded Amounts, and Total Amounts Received.
-
-**Loan Performance**: Analysis of "Good Loan" vs. "Bad Loan" status using custom conditional logic.
-
-**Advanced Formatting**: Custom chart designs, slicers for data filtering, and navigation buttons for seamless user experience 
+-**Dynamic Dashboards**: Interactive summary, overview, and detailed grid views.
+-**KPI Tracking**: Monitoring Total Loan Applications, Total Funded Amounts, and Total Amounts Received.
+-**Loan Performance**: Analysis of "Good Loan" vs. "Bad Loan" status using custom conditional logic.
+-**Advanced Formatting**: Custom chart designs, slicers for data filtering, and navigation buttons for seamless user experience 
 
 ---
 
