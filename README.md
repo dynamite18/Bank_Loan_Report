@@ -41,10 +41,10 @@ Based on the analyzed portfolio:
 - The average interest rate is approximately **12%**.
 - The average borrower DTI is approximately **13.3%**.
 - The majority of loans are classified as **good loans**.
-- Charged-off loans represent a significant portion of the portfolio and require additional risk monitoring.
-- Higher-risk loan grades show substantially higher bad-loan rates.
-- Debt consolidation is one of the largest loan-purpose categories.
-- 36-month loans account for a larger share of applications than 60-month loans.
+- Charged off loans represent a significant portion of the portfolio and require additional risk monitoring.
+- Higher risk loan grades show substantially higher bad loan rates.
+- Debt consolidation is one of the largest loan purpose categories.
+- 36 month loans account for a larger share of applications than 60 month loans.
 - Bad loans show considerably weaker recovery compared with the amount originally funded.
 
 
