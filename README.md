@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project is an end-to-end data analysis portfolio project focused on the Finance Domain. It demonstrates how to perform data preparation, analysis, and visualization using Microsoft Excel to derive actionable insights from bank loan data. 
+This project is a data analysis portfolio project focused on the Finance Domain. It demonstrates how to perform data preparation, analysis, and visualization using Microsoft Excel to derive actionable insights from bank loan data. 
 
 The objective is to analyze loan applications, funded amounts, repayment performance, loan quality, borrower characteristics, and credit risk indicators from the perspective of a lending/financial institution.
 
