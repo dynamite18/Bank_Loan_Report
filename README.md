@@ -6,7 +6,7 @@ This project is an end-to-end data analysis portfolio project focused on the Fin
 
 The objective is to analyze loan applications, funded amounts, repayment performance, loan quality, borrower characteristics, and credit risk indicators from the perspective of a lending/financial institution.
 
-The dashboard helps identify **good vs. bad loans, high-risk loan grades, loan demand patterns, repayment terms, employment segments, and home ownership categories**.
+The dashboard helps identify **good vs. bad loans, high risk loan grades, loan demand patterns, repayment terms, employment segments, and home ownership categories**.
 
 
 ---
